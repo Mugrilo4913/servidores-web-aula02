@@ -12,11 +12,10 @@ Nesta aula, abordamos os conceitos fundamentais do funcionamento da Web. Compree
 
 ---
 
- Arquivos Criados
-* [761041_Exec001.html](./761041_Exec001.html)
-* [761041_Exec002.html](./761041_Exec002.html)
-* [761041_Exec003.html](./761041_Exec003.html)
-
+## Arquivos Criados
+* [761041_Exec001.html](https://github.com/SEU_USUARIO/servidores-web-aula02/blob/main/761041_Exec001.html)
+* [761041_Exec002.html](https://github.com/SEU_USUARIO/servidores-web-aula02/blob/main/761041_Exec002.html)
+* [761041_Exec003.html](https://github.com/SEU_USUARIO/servidores-web-aula02/blob/main/761041_Exec003.html)
 ---
 
  O que aprendi sobre Servidores Web
